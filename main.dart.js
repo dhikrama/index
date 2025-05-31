@@ -8178,7 +8178,7 @@ case 1:return A.t(q,r)}})
 return A.u($async$aic,r)},
 aib(a){var s=0,r=A.v(t.N),q,p,o,n,m
 var $async$aib=A.q(function(b,c){if(b===1)return A.r(c,r)
-while(true)switch(s){case 0:m=$.BS().gzp().i(0,"GITHUB_TOKEN")
+while(true)switch(s){case 0:m=$.BS().gzp().i(0,"PERSONAL_TOKEN")
 m.toString
 p=t.N
 s=3
