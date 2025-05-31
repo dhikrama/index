@@ -8178,7 +8178,7 @@ case 1:return A.t(q,r)}})
 return A.u($async$aic,r)},
 aib(a){var s=0,r=A.v(t.N),q,p,o,n,m
 var $async$aib=A.q(function(b,c){if(b===1)return A.r(c,r)
-while(true)switch(s){case 0:m=$.BS().gzp().i(0,"PERSONAL_TOKEN")
+while(true)switch(s){case 0:m=$.BS().gzp().i(0,"GITHUB_TOKEN")
 m.toString
 p=t.N
 s=3
@@ -32060,7 +32060,7 @@ return s>=(q==null?-1:q)}}else return!1
 return p.w},
 a9i(a,b,c,d){var s=0,r=A.v(t.y),q,p,o,n,m,l,k,j,i,h,g
 var $async$a9i=A.q(function(e,f){if(e===1)return A.r(f,r)
-while(true)switch(s){case 0:g=$.BS().gzp().i(0,"CLIENT_TOKEN")
+while(true)switch(s){case 0:g=$.BS().gzp().i(0,"GITHUB_TOKEN")
 g.toString
 p="https://api.github.com/repos/dhikrama/fluttercms/contents/"+("posts/"+d+".md")
 o=B.b.gV(new A.ek(Date.now(),0,!1).aL2().split("T"))
